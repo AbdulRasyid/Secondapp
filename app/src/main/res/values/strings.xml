@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Secondapp</string>
+    <string name="edit_message">test</string>
+    <string name="edit_pesan">coba</string>
+    <string name="edit_query">hitung</string>
+    <string name="button_send">SEND</string>
+</resources>
